@@ -5,8 +5,8 @@ import (
 	"log"
 	"net"
 
-	"github.com/brunohubner/fc2-grpc/pb"
-	"github.com/brunohubner/fc2-grpc/services"
+	"github.com/brunohubner/fc2-grpc-example/pb"
+	"github.com/brunohubner/fc2-grpc-example/services"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )

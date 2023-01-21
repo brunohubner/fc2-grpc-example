@@ -7,7 +7,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/brunohubner/fc2-grpc/pb"
+	"github.com/brunohubner/fc2-grpc-example/pb"
 )
 
 type UserService struct {

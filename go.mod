@@ -1,4 +1,4 @@
-module github.com/brunohubner/fc2-grpc
+module github.com/brunohubner/fc2-grpc-example
 
 go 1.19
 
